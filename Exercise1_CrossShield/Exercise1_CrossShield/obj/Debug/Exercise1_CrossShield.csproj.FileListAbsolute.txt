@@ -1,0 +1,6 @@
+c:\users\aric\documents\visual studio 2015\Projects\Exercise1_CrossShield\Exercise1_CrossShield\bin\Debug\Exercise1_CrossShield.exe.config
+c:\users\aric\documents\visual studio 2015\Projects\Exercise1_CrossShield\Exercise1_CrossShield\bin\Debug\Exercise1_CrossShield.exe
+c:\users\aric\documents\visual studio 2015\Projects\Exercise1_CrossShield\Exercise1_CrossShield\bin\Debug\Exercise1_CrossShield.pdb
+c:\users\aric\documents\visual studio 2015\Projects\Exercise1_CrossShield\Exercise1_CrossShield\obj\Debug\Exercise1_CrossShield.csprojResolveAssemblyReference.cache
+c:\users\aric\documents\visual studio 2015\Projects\Exercise1_CrossShield\Exercise1_CrossShield\obj\Debug\Exercise1_CrossShield.exe
+c:\users\aric\documents\visual studio 2015\Projects\Exercise1_CrossShield\Exercise1_CrossShield\obj\Debug\Exercise1_CrossShield.pdb
